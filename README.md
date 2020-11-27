@@ -5,6 +5,6 @@ récupérés par le programme à partir du site data.gouv.fr.
 Les datasets sur lesquels se base le programme sont disponibles sur le lien suivant : https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
 
 3 datasets ont été utilisés pour cette analyse :
-- donnees-hospitalieres-covid19
-- donnees-hospitalieres-nouveaux-covid19
-- donnees-hospitalieres-classe-age-covid19
+- donnees-hospitalieres-covid19 (cov.csv)
+- donnees-hospitalieres-nouveaux-covid19 (covn.csv)
+- donnees-hospitalieres-classe-age-covid19 (cova.csv)
