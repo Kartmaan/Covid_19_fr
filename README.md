@@ -8,3 +8,6 @@ Les datasets sur lesquels se base le programme sont disponibles sur le lien suiv
 - donnees-hospitalieres-covid19 (cov.csv)
 - donnees-hospitalieres-nouveaux-covid19 (covn.csv)
 - donnees-hospitalieres-classe-age-covid19 (cova.csv)
+
+# Quelques visualisations
+![img_graph](https://user-images.githubusercontent.com/11463619/100869943-195e0000-349e-11eb-8b54-348e9196c9c1.jpg)
